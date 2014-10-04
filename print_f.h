@@ -1,5 +1,5 @@
 /*
-  OhmMeter.h v.1.0 - Resistance measuring library for arduino
+  for some reason vsprintf or sprintf will not work with float on arduino.
   2014 Doru Irimescu 
 
 */
